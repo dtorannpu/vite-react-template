@@ -1,7 +1,5 @@
-import "./App.css";
+import "@/App.css";
 
-const App = () => {
+export default function App() {
   return <></>;
-};
-
-export default App;
+}
